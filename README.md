@@ -1,2 +1,13 @@
 # make-your-own-chatbot
-This repository demonstrates the way to create a chatbot with few important libraries,defining,accessing data and coding.
+import the downloaded chatterbot into program(few important files)
+import os
+define data
+access data
+code (as per your customization)
+training
+testing
+creating ui
+deploy
+
+
+
